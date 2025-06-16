@@ -171,24 +171,15 @@ body {
 
 /* Portfolio Section */
 
-.portfolio {
-  background-color: #fff;
-}
-
 .portfolio-title {
   font-size: 36px;
   line-height: 1.11;
-  letter-spacing: 0.02em;
   text-align: center;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
 }
-.portfolio-list{
-  list-style: none;
-}
-.portfolio-list-item {
-background-color: #E7E9FC;
-}
+
 .portfolio-item-title {
   font-weight: 500;
   font-size: 20px;
@@ -198,7 +189,6 @@ background-color: #E7E9FC;
 }
 
 .portfolio-item-description {
-  
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
