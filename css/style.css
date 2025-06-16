@@ -170,8 +170,7 @@ body {
 }
 
 /* Portfolio Section */
-
-.portfolio-title {
+.section-title {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -180,7 +179,7 @@ body {
   color: #2e2f42;
 }
 
-.portfolio-item-title {
+.card-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -188,13 +187,12 @@ body {
   color: #2e2f42;
 }
 
-.portfolio-item-description {
+.card-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-
 /* Footer */
 
 .footer {
