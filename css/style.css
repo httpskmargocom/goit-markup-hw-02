@@ -26,6 +26,7 @@ body {
 
 .header {
   background-color: #ffffff;
+  color: #4d5ae5;
   text-align: center;
 }
 
@@ -178,7 +179,6 @@ body {
 }
 
 .portfolio-title {
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -194,12 +194,9 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.portfolio-item {
-  background-color: #fff;
-}
 
 .portfolio-item-description {
-  font-weight: 400;
+  
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -209,6 +206,7 @@ body {
 /* Footer */
 
 .footer {
+  color: #4d5ae5;
   background-color: #2e2f42;
   text-align: center;
 }
