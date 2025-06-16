@@ -14,9 +14,6 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   text-decoration: none;
-}
-
-.logo-web {
   color: #4d5ae5;
 }
 
@@ -186,7 +183,12 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
 }
-
+.portfolio-list{
+  list-style: none;
+}
+.portfolio-list-item {
+background-color: #E7E9FC;
+}
 .portfolio-item-title {
   font-weight: 500;
   font-size: 20px;
@@ -205,12 +207,14 @@ body {
 
 /* Footer */
 
-.footer {
-  color: #4d5ae5;
-  background-color: #2e2f42;
-  text-align: center;
-}
 .footer-logo {
+   font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  text-decoration: none;
   color: #4d5ae5;
 }
 .footer-logo-studio {
