@@ -40,6 +40,9 @@ body {
   color: #2e2f42;
   text-decoration: none;
 }
+.navigation-list-link {
+  color: #2e2f42;
+}
 
 .navigation-list-item a:hover,
 .navigation-list-item a:focus {
@@ -90,7 +93,7 @@ color: #2e2f42;
 .introduction-title {
 font-weight: 700;
 font-size: 56px;
-line-height: 1.07143;
+line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
@@ -100,7 +103,7 @@ color: #fff;
   font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
-letter-spacing: 0.02em;
+letter-spacing: 0.04em;
 background-color: #4d5ae5;
 color: #fff;
 text-align: center;
@@ -174,9 +177,10 @@ color: #434455;
 .portfolio-title {
   font-weight: 700;
 font-size: 36px;
-line-height: 1.11111;
+line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
+text-transform: capitalize;
 color: #2e2f42;
 }
 
